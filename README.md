@@ -1,16 +1,16 @@
-# Salary_Survey_Analysis
+## Salary_Survey_Analysis
 
-📊 Project Overview
+## 📊 Project Overview
 
 This project focuses on analyzing the 2021 Salary Survey dataset using Microsoft Excel and SQL. The goal is to extract insights about employee compensation, demographics, experience, and job roles across different industries.
 
-🧰 Tools & Technologies
+## 🧰 Tools & Technologies
 
 Microsoft Excel: Used for initial data cleaning, formatting, pivot tables, and basic data visualization.
 
 SQL (PostgreSQL): Used for querying, aggregating, and analyzing structured data efficiently.
 
-📁 Dataset
+## 📁 Dataset
 
 Filename: Salary Survey 2021.xlsx
 
@@ -28,7 +28,7 @@ Bonus and other monetary benefits
 
 Demographics (gender, country, experience, education, etc.)
 
-📌 Key Objectives
+## 📌 Key Objectives
 
 Clean and transform raw data for analysis
 
@@ -44,7 +44,7 @@ Experience level
 
 Job title
 
-Calculate:
+## Calculate:
 
 Median and average salary by group
 
@@ -54,7 +54,7 @@ Bonus distribution trends
 
 Visualize key insights using Excel charts and pivot tables
 
-📈 Sample Insights
+## 📈 Sample Insights
 
 💰 Which industries pay the most?
 
@@ -64,7 +64,7 @@ Visualize key insights using Excel charts and pivot tables
 
 ⏳ Does experience significantly influence salary?
 
-🗃️ SQL Tasks
+## 🗃️ SQL Tasks
 
 Example queries used:
 
@@ -76,6 +76,6 @@ Conditional CASE WHEN to evaluate benefit distributions
 
 Joins and filters for multivariable analysis
 
-📌 Conclusion
+## 📌 Conclusion
 
 This project demonstrates the power of combining Excel for exploratory data analysis with SQL for efficient querying of complex patterns in structured salary data. It provides valuable insight for HR professionals, policy-makers, and employees looking to benchmark compensation.
